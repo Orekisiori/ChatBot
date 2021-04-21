@@ -1,0 +1,21 @@
+聊天记录2021-04-21 17:18:37.228497:
+user:你好啊
+chatbot:你好呀
+user:天气不错
+chatbot:你好啥
+user:我说天气不错
+chatbot:嗯嗯，我也觉得，看你说的挺有道理的，我下星期去北京
+user:这就不对了
+chatbot:嗯嗯，去玩玩
+user:你喜欢北京吗
+chatbot:不是
+user:那为什么去
+chatbot:不知道啊
+user:这就有点扯了
+chatbot:你还不睡
+user:还早呢
+chatbot:夜猫
+user:哈哈
+chatbot:哈哈
+user:先这样
+chatbot:哈哈哈，睡啦
